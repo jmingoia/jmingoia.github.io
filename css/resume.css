@@ -27,7 +27,7 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #343a40;
+  color: #FFFFFF;
 }
 
 h1 {
@@ -142,11 +142,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #FF0033 !important;
+  color: #000000 !important;
 }
 
 a {
-  color: #FF0033;
+  color: #000000;
 }
 
 a:hover, a:focus, a:active {
